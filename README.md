@@ -1,8 +1,9 @@
-# Belajar-Dasar-Pemrograman-Web (69%)
+# Belajar-Dasar-Pemrograman-Web (76%)
 
-* saya belajar mengenai apa itu website, server, dan client  
-* anatomi website dan kuis diakhir modul
-*  saya mempelajari pengenalan html
+* Saya belajar mengenai apa itu website, server, dan client  
+* Anatomi website dan kuis diakhir modul
+* Saya mempelajari pengenalan html
 * Saya mempelajari pendalaman HTML
-* saya belajar pengenalan CSS
-* saya mendalami soal CSS
+* Saya belajar pengenalan CSS
+* Saya mendalami soal CSS
+* Saya mempelajari Flexbox
