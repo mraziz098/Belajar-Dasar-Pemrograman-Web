@@ -1,4 +1,4 @@
-# Belajar-Dasar-Pemrograman-Web (99%)
+# Belajar-Dasar-Pemrograman-Web (100%)
 
 * Saya belajar mengenai apa itu website, server, dan client  
 * Anatomi website dan kuis diakhir modul
@@ -9,3 +9,4 @@
 * Saya mempelajari Flexbox
 * Saya mempelajari JavaScript & DOM
 * Make last project for certificate
+* I finished it
